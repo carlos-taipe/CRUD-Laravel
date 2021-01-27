@@ -42,7 +42,7 @@
                             </div>
                             <div class="col-auto">
                                 @csrf
-                                <button type="submit" class="btn btn-primary">Enviar</button>
+                                <button type="submit" class="btn btn-primary">Añadir</button>
                             </div>
                         </div>
                     </form> 
